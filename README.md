@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Getting Started with Create React App
+# Karen World
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The official repository for the Karen Web3 project.
 
 ## Available Scripts
 
