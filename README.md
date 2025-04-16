@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Karen World 🌍
 
 Welcome to the official repository of the **Karen World** Web3 project.
@@ -21,3 +22,7 @@ In the project directory, you can run:
 ```bash
 npm install
 npm start
+=======
+# Karen World
+Welcome to the official repository of the Karen World project!
+>>>>>>> 66e5c40a414d76914e5fc94261a3edc439c074a4
